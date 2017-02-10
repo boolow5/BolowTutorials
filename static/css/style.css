@@ -1,0 +1,25 @@
+.main-content {
+  min-height: 17.9em;
+}
+.login-form, #register-form {
+  max-width: 25em;
+  margin: auto;
+}
+
+.top-bar {
+  background-color: #0f0f0f;
+}
+.top-bar li {
+  background-color: #050505;
+}
+.top-bar a {
+  background-color: #080808;
+  color: #d6eee3;
+}
+body {
+  background-color: #d6eee3;
+}
+.card-divider {
+  background-color: #a3d0e4;
+  color: #000;
+}
